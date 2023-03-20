@@ -1,0 +1,22 @@
+{
+  "name": "vs-2019-dark-flat",
+  "displayName": "vs 2019 dark flat",
+  "description": "Unofficial Visual Studio 2019 dark flat theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vs 2019 dark flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vs 2019 dark flat-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "fhgaha"
+}
